@@ -66,7 +66,3 @@ Running seeders/seed.js is optional to have a prepopulated database.
 ## License
 
 
-</br>
-<p align="center">
-    <img align="center" src="" alt="MIT license" />
-</p>
