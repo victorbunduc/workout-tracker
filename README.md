@@ -28,11 +28,6 @@ Running seeders/seed.js is optional to have a prepopulated database.
 
 ## Usage
 
-### Screeshots
-
-
-* Creating Workouts
-
 ![Site](public/assets/live.gif)
 
 
