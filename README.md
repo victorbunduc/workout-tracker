@@ -8,10 +8,9 @@ A fitness app that allows the user to view, create, and track daily workouts. Th
 
 ## Installation
 
-* Clone repository. 
-* Check in routes/api-routes and comment in block of code if you want the database to be prepopulated with dummy values
-* npm install
-*  node server.js
+* Check in routes/api-routes and comment in block of code if you want the database to be prepopulated with dummy values.
+* npm install.
+*  node server.js.
 
 Running seeders/seed.js is optional to have a prepopulated database.
 
