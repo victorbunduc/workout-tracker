@@ -18,7 +18,8 @@ Running seeders/seed.js is optional to have a prepopulated database.
 
 ## Usage
 
-![Site](public/assets/live.gif)
+![Alt text](./public/images/fittrack.gif?raw=true "Preview")
+
 
 
 
