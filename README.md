@@ -1,19 +1,5 @@
 # Fitness Tracker
 
-</br>
-<p align="center">
-    <img src="https://img.shields.io/github/languages/count/kqarlos/fitness-tracker?style=for-the-badge" alt="Languages" />
-    <img src="https://img.shields.io/github/languages/top/kqarlos/fitness-tracker?style=for-the-badge" alt="Top Language" />
-    <img src="https://img.shields.io/github/languages/code-size/kqarlos/fitness-tracker?style=for-the-badge" alt="Code Size" />
-    <img src="https://img.shields.io/github/repo-size/kqarlos/fitness-tracker?style=for-the-badge" alt="Repo Size" />   
-    <img src="https://img.shields.io/tokei/lines/github/kqarlos/fitness-tracker?style=for-the-badge" alt="Total Lines" />
-    <img src="https://img.shields.io/github/package-json/dependency-version/kqarlos/fitness-tracker/express?style=for-the-badge" alt="Express Version" />
-    <img src="https://img.shields.io/github/package-json/dependency-version/kqarlos/fitness-tracker/mongoose?style=for-the-badge" alt="Mongoose Version" />
-    <img src="https://img.shields.io/github/package-json/dependency-version/kqarlos/fitness-tracker/morgan?style=for-the-badge" alt="Morgan Version" />
-    <img src="https://img.shields.io/github/last-commit/kqarlos/fitness-tracker?style=for-the-badge" alt="Last Commit" />  
-    <img src="https://img.shields.io/github/issues/kqarlos/fitness-tracker?style=for-the-badge" alt="Issues" />  
-    <img src="https://img.shields.io/github/followers/kqarlos?style=social" alt="Followers" />  
-</p>
 
 
 ## Description
@@ -53,7 +39,7 @@ Running seeders/seed.js is optional to have a prepopulated database.
 ![Site](public/assets/live.gif)
 
 
-* Last Week's Summary
+
 
 ![Site](public/assets/dash.png)
 
@@ -62,11 +48,7 @@ Running seeders/seed.js is optional to have a prepopulated database.
 
 ## Credits
 
-### Author
 
-- 💼 Carlos Toledo: [portfolio](https://professional-portfolio2020.herokuapp.com/)
-- :octocat: Github: [kqarlos](https://www.github.com/kqarlos)
-- LinkedIn: [carlos-toledo415](https://www.linkedin.com/in/carlos-toledo415/)
 
 ### Built With
 
